@@ -1,5 +1,10 @@
 # 💫 About Me:
-A RAG project im looking to collaborate to enchance my knowledge im looking for professional guidance im currently learning fullstack and AI my hobbies are guitar chess and gym
+Full-stack developer passionate about AI and modern web technologies, building applications with React, Express, and MySQL.
+
+I enjoy creating real-world projects, experimenting with AI-powered features, and turning ideas into scalable products with clean UI and solid backend architecture. I’m constantly learning and improving through hands-on building, problem solving, and exploring new technologies.
+
+Outside of coding, I’m into fitness and gym training, chess, and playing guitar.
+
 
 
 ## 🌐 Socials:
